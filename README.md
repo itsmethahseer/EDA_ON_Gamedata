@@ -72,4 +72,4 @@ For any questions or inquiries about this project, feel free to contact me at `z
 Thank you for your interest in this data analysis project!
 
 ---
-*Note: The banner image used in this README is for illustrative purposes only and does not represent any real data.*
+
